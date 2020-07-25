@@ -1,0 +1,1 @@
+@yield(config('blade-x-loader.container'))
