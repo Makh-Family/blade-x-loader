@@ -1,5 +1,6 @@
 <?php
 
 return [
-    'container' => 'content'
+	'section' => 'content',
+    'container' => 'app'
 ];

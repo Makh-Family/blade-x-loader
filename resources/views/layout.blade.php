@@ -1,1 +1,1 @@
-@yield(config('blade-x-loader.container'))
+@yield(config('blade-x-loader.section'))
