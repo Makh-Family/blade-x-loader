@@ -2,5 +2,5 @@
 
 return [
 	'section' => 'content',
-    'container' => 'app'
+    	'container' => 'app'
 ];
